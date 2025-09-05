@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.0.0   # या latest stable
+  url_launcher: ^6.1.10     # या latest stable
